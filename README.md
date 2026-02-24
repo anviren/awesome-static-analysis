@@ -297,6 +297,7 @@ report. The higher the score, the more pain the code is in.
 * [SensioLabs Insight](https://insight.sensiolabs.com/) [PROPRIETARY] - Detect security risks, find bugs and provide actionable metrics for PHP projects
 * [Snyk](https://snyk.io/) [PROPRIETARY] - Vulnerability scanner for dependencies of node.js apps (free for Open Source Projects)
 * [Teamscale](http://www.teamscale.com/) [PROPRIETARY] - analyze, monitor, and improve the quality of your code.
+* [Revieko](https://synqra.tech/revieko/) [PROPRIETARY] - Architecture drift radar for pull requests (structural risk scoring + drift hotspots).
 
 ## License
 
